@@ -98,4 +98,4 @@
 
 ---
 
-![snake gif](https://github.com/vaibhavpatil007/vaibhavpatil007/blob/output/github-snake.svg)
+![snake gif](https://github.com/vaibhavpatil007/vaibhavpatil007/blob/output/github-snake-dark.svg)
