@@ -54,7 +54,7 @@
 <a href="#" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="50px"/></a>
 
 ### 🔐 Cybersecurity & API Security  
-<a href="#" title="JWT Authentication"><img src="https://img.icons8.com/?size=512&id=110202&format=png&color=00f7e7" width="50px"/></a>
+<!-- <a href="#" title="JWT Authentication"><img src="https://img.icons8.com/?size=512&id=110202&format=png&color=00f7e7" width="50px"/></a> -->
 <a href="#" title="OAuth2 / OIDC"><img src="https://img.icons8.com/?size=512&id=23264&format=png&color=00f7e7" width="50px"/></a>
 <a href="#" title="Cryptography (RSA, AES)"><img src="https://img.icons8.com/?size=512&id=13319&format=png&color=00f7e7" width="50px"/></a>
 <a href="#" title="Key Rotation"><img src="https://img.icons8.com/?size=512&id=98968&format=png&color=00f7e7" width="50px"/></a>
